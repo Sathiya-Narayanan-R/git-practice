@@ -3,3 +3,4 @@ This is my first project.
 I am learning Git and GitHub practically.
 My project is now connected to GitHub.
 This change is being developed on a separate branch.
+I can track changes using Git.
