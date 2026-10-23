@@ -1,3 +1,4 @@
 Hello Git!
 This is my first project.
 I am learning Git and GitHub practically.
+My project is now connected to GitHub.
